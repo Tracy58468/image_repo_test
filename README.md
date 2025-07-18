@@ -1,1 +1,1 @@
-# image_repo_test
+# Testing using GitHub to host images for Coding & Cocktails
